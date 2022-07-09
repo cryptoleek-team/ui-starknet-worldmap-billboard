@@ -26,8 +26,8 @@ Tech Stack in details:
 #### How to start?
 - Make sure you installed your Argent Wallet and connect to the game
 - You need to have some eth to be used as gas
-- You can get some free $WORLD token (After all it's just a hackathon project)
-- Then go and bidding your favourite spot for glouris BillBoard Ads
+- You can get some free $WORLD token (facuet function, can you figure out?)
+- Then go and bidding your favourite spot for awesome BillBoard Ads
 
 #### How to bid?
 The actual bidding price starting from 1 $WORLD, and every bid the price will go double. And effectively half of the $WORLD will go to previous bidder's pocket, so you dont lose any money to be fair as long as somebody outbid you, but you do lose the BillBoard owner rights and status quo in the game. Yes, Owner rights and status quo are more important right? 😄
